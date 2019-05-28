@@ -1,0 +1,11 @@
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.csprojAssemblyReference.cache
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.csproj.CoreCompileInputs.cache
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.AssemblyInfoInputs.cache
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.AssemblyInfo.cs
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\bin\Debug\netcoreapp2.1\StoryTime.deps.json
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\bin\Debug\netcoreapp2.1\StoryTime.runtimeconfig.json
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\bin\Debug\netcoreapp2.1\StoryTime.runtimeconfig.dev.json
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\bin\Debug\netcoreapp2.1\StoryTime.dll
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\bin\Debug\netcoreapp2.1\StoryTime.pdb
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.dll
+C:\Users\Deangelo Cortes\source\repos\StoryTime\StoryTime\obj\Debug\netcoreapp2.1\StoryTime.pdb
